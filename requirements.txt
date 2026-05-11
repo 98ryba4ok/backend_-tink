@@ -1,0 +1,13 @@
+django==4.2.*
+djangorestframework==3.14.*
+django-cors-headers
+channels
+uvicorn[standard]
+djangorestframework-simplejwt
+psycopg2-binary
+python-decouple
+requests
+sentry-sdk[django]
+django-filter
+whitenoise
+dj-database-url
